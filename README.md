@@ -63,9 +63,9 @@ void loop()
   delay(1000);
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("Ing. Mecanico");
+  lcd.print("Daniel Armenta");
   lcd.setCursor(0, 1);
-  lcd.print("Cristian Mejia");
+  lcd.print("Ing. Electrico");
   delay(2000);
 
 }
