@@ -95,3 +95,10 @@ void loop()
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial y el display como se muestra en la siguente imagen.
 
+![](https://github.com/DanielX834/PRACTICA-N4/blob/main/4Resultado1.jpg?raw=true)
+
+![](https://github.com/DanielX834/PRACTICA-N4/blob/main/4Resultado2.jpg?raw=true)
+
+# Créditos
+
+Desarrollado por Ing. Daniel Armenta
