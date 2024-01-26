@@ -1,5 +1,5 @@
 # PRACTICA ESP32 CON ULTRASONICO Y LCD
-Este repositorio muestra como podemos programar una ESP32 con el sensor ULTRASONICO y un display LSD.
+Este repositorio muestra como podemos programar una ESP32 con el sensor ULTRASONICO y un display LCD.
 
 ## Introducción
 
@@ -70,3 +70,27 @@ void loop()
 
 }
 ```
+2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
+
+![](
+
+3. Instalar la libreria de **LiquidCrystal I2C** como se muestra en la siguente imagen.
+
+![](
+
+4. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
+
+![](
+
+5. Hacer la conexion de **LCD16x2(I2C)** con la **ESP32** como se muestra en la siguente imagen.
+
+![](
+
+### Instrucciónes de operación
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+3. Colocar la distancia dando *doble click* al sensor **HC-SR04** 
+
+## Resultados
+Cuando haya funcionado, verás los valores dentro del monitor serial y el display como se muestra en la siguente imagen.
+
