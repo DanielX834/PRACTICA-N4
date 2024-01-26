@@ -72,19 +72,20 @@ void loop()
 ```
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![](
+![](https://github.com/DanielX834/PRACTICA-N4/blob/main/1Libreria.jpg?raw=true)
 
 3. Instalar la libreria de **LiquidCrystal I2C** como se muestra en la siguente imagen.
 
-![](
+![](https://github.com/DanielX834/PRACTICA-N4/blob/main/2LibreriaL2C.jpg?raw=true)
 
 4. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
 
-![](
+![](![image](https://github.com/DanielX834/PRACTICA-N4/assets/154008369/2fb96e8d-bc3a-40ae-a53b-8e5a73298573)
+
 
 5. Hacer la conexion de **LCD16x2(I2C)** con la **ESP32** como se muestra en la siguente imagen.
 
-![](
+![](https://github.com/DanielX834/PRACTICA-N4/blob/main/3ConexionL2C.jpg?raw=true)
 
 ### Instrucciónes de operación
 1. Iniciar simulador.
